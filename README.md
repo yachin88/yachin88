@@ -1,6 +1,6 @@
 # yachin88
 
-![Profile Image](profile.jpg)
+![Profile Image](yachin.jpg)
 
 **Passionate Cybersecurity Enthusiast**
 
